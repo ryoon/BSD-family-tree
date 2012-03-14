@@ -156,11 +156,11 @@ FreeBSD 4.0  |      |  |  |  | NetBSD 1.4.2    |             |             |
  |      |            10.2    |                 |     MirOS #1|             |
  |   FreeBSD 4.7      |      |                 |     MirOS #2|             |
  |      |             |   NetBSD 1.6       OpenBSD 3.2  |    |             |
- |   FreeBSD 4.8      |      |    |            |     MirOS #4|             |
- |      |             |      | NetBSD 1.6.1    |        |    |             |
- |      |--------.    |      |    |        OpenBSD 3.3  |  BSD/OS 5.0      |
- |      |         \   |      |    |            |     MirOS #5|             |
- |   FreeBSD 4.9   |  |      |    |            |     MirOS #6|             |
+ |   FreeBSD 4.8      |      |    |         .--|     MirOS #4|             |
+ |      |             |      | NetBSD 1.6.1/   |        |    |             |
+ |      |--------.    |      |    |       /OpenBSD 3.3  |  BSD/OS 5.0      |
+ |      |         \   |      |    |      /     |     MirOS #5|             |
+ |   FreeBSD 4.9   |  |      |    |  ekkoBSD   |     MirOS #6|             |
  |      |          |  |      |    |        OpenBSD 3.4  |  BSD/OS 5.1 ISE  |
  |      |          |  |      | NetBSD 1.6.2    |     MirOS #7              |
  |      |          |  |      |    |            |        |                  |
