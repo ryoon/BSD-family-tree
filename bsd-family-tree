@@ -246,13 +246,16 @@ FreeBSD 5.2           |      |                 |        |              |   |
  |     |        |     |      | NetBSD 5.1      |        |              |   |
  |  FreeBSD  FreeBSD  |      |                 |        |              |   ~
  |    8.2      7.4    |      |                 |        |      DragonFly 2.10.1
- |     v              |      |             OpenBSD 4.9  |              |   ~
- |                 Mac OS X  |                 |        |              |   |
- |                   10.7    |                 |        |              |   |
- |                    |      |             OpenBSD 5.0  |              |   |
- +--FreeBSD           |      |                 |        |              |   ~
- |    9.0             |  NetBSD 6.0            |        |      DragonFly 3.0.1
- |     v              |      |                 |        |              |   ~
+ |     |              |      |             OpenBSD 4.9  |              |   ~
+ |     `-----.     Mac OS X  |                 |        |              |   |
+ |            \      10.7    |                 |        |              |   |
+ |             |      |      |             OpenBSD 5.0  |              |   |
+ +--FreeBSD    |      |      |                 |        |              |   ~
+ |    9.0      |      |      |                 |        |      DragonFly 3.0.1
+ |     v    FreeBSD   |      |                 |        |      DragonFly 3.0.2
+ |            8.3     |      |             OpenBSD 5.1  |              |   ~
+ |                  OS X     |                 |        |              |   |
+ |                  10.8     |                 |        |              |   |
  |                    |      |                 |        |              |   |
 FreeBSD 10 -current   |  NetBSD -current  OpenBSD -current             |   |
  |                    |      |                 |        |              |   |
@@ -563,6 +566,10 @@ Mac OS X 10.7		2011-07-20 [APL]
 OpenBSD 5.0		2011-11-01 [OBD]
 FreeBSD 9.0		2012-01-12 [FBD]
 DragonFly 3.0.1		2012-02-22 [DFB]
+DragonFly 3.0.2		2012-03-26 [DFB]
+FreeBSD 8.3		2012-04-18 [FBD]
+OpenBSD 5.1		2012-05-01 [OBD]
+OS X 10.8		2012-07-25 [APL]
 
 Bibliography
 ------------------------
